@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "63e3b0ccb8b954d8251da30c"
+  },
+  "cookie": "933ggdwfbttktce2zu7zt",
+  "email": "admin@gmail.com",
+  "name": "Admin",
+  "admin": true,
+  "lastName": "Adminas",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e40fb60ebb94edb7cfa80e"
+  },
+  "cookie": "m9j5x49bv07v28iguu2qz",
+  "email": "k@gmail.com",
+  "name": "Test",
+  "admin": false,
+  "lastName": "Test",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e411fd0ebb94edb7cfa81f"
+  },
+  "cookie": "else6tnoqc9m1i244p48v9",
+  "email": "admin@gmail.com",
+  "name": "Admin",
+  "admin": true,
+  "lastName": "Adminas",
+  "__v": 0
+}]
